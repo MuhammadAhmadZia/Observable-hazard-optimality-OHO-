@@ -1,0 +1,11 @@
+skin,rep,DFI,ablation_shift
+Combination,sparse,0.182,0.0
+Combination,dense(MiniLM),-0.155,0.485
+Dry,sparse,0.107,0.0
+Dry,dense(MiniLM),0.36,0.592
+Normal,sparse,0.182,0.0
+Normal,dense(MiniLM),0.304,0.551
+Oily,sparse,0.387,0.039
+Oily,dense(MiniLM),-0.311,0.551
+Sensitive,sparse,0.343,0.077
+Sensitive,dense(MiniLM),0.564,0.551

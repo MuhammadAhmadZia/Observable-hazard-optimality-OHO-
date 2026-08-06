@@ -1,0 +1,11 @@
+domain,segment,n,n_dense,DFI,recon_R2,recon_rho,burden10_rel,burden10_rule
+cosmetics/fragrance-allergen,Combination,1266,467,0.182,0.193,0.802,8.5,4.2
+cosmetics/fragrance-allergen,Dry,1266,467,0.107,0.585,0.826,8.9,4.2
+cosmetics/fragrance-allergen,Normal,1266,467,0.182,0.042,0.595,8.4,3.9
+cosmetics/fragrance-allergen,Oily,1266,467,0.387,0.491,0.947,9.7,4.8
+cosmetics/fragrance-allergen,Sensitive,1266,467,0.343,0.781,0.949,9.0,4.6
+cosmetics/prop65-chemicals,Combination,1266,171,-0.287,0.221,0.571,7.2,4.4
+cosmetics/prop65-chemicals,Dry,1266,171,-0.065,0.552,0.836,6.2,5.0
+cosmetics/prop65-chemicals,Normal,1266,171,-0.558,-0.428,0.533,6.8,4.4
+cosmetics/prop65-chemicals,Oily,1266,171,-0.584,0.372,0.71,6.6,5.4
+cosmetics/prop65-chemicals,Sensitive,1266,171,-0.386,0.096,0.562,6.2,5.4

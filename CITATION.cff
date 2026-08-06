@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Observable Hazard Optimality in Health-Aware Recommendation"
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAME]"
+date-released: 2026-01-01
+license: MIT

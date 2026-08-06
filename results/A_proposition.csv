@@ -1,0 +1,4 @@
+test,trials,violations
+exhaustive_n7,300,0
+local_search_n400,60,0
+stochastic_LP,20,0
